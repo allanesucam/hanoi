@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+﻿#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
 from __future__ import print_function
@@ -17,7 +17,7 @@ moves = 0
 """
     
     Este sencillo algoritmo recurrente resuelve el problema de las torres de Hanoi.
-
+Po zi
 """
 
 def show():
